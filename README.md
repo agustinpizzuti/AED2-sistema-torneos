@@ -1,4 +1,4 @@
-# 🎮 Sistema de Gestión de Torneos - AED2
+# Sistema de Gestión de Torneos - AED2
 
 Proyecto académico desarrollado en **Java** para la materia **Algoritmos y Estructura de Datos 2**.
 
